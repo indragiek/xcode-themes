@@ -4,7 +4,7 @@ Color themes for Xcode 4 and 5. Install to `~/Library/Developer/Xcode/UserData/F
 
 ### Themes
 
-### Dull Dark
+#### Dull Dark
 
 Dark theme with bright but heavily desaturated colors. Good for working at night without blinding colors all up in your face.
 
